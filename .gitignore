@@ -1,0 +1,6 @@
+*.exe
+*.csv
+ntuser.dat*
+OneDrive/
+teacher-portal/
+
